@@ -1,0 +1,6 @@
+C:\Users\Miller\source\repos\ConnectionTest\ConTest\bin\Debug\ConTest.dll
+C:\Users\Miller\source\repos\ConnectionTest\ConTest\bin\Debug\ConTest.pdb
+C:\Users\Miller\source\repos\ConnectionTest\ConTest\obj\Debug\ConTest.csprojAssemblyReference.cache
+C:\Users\Miller\source\repos\ConnectionTest\ConTest\obj\Debug\ConTest.csproj.CoreCompileInputs.cache
+C:\Users\Miller\source\repos\ConnectionTest\ConTest\obj\Debug\ConTest.dll
+C:\Users\Miller\source\repos\ConnectionTest\ConTest\obj\Debug\ConTest.pdb
